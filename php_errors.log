@@ -1,0 +1,12 @@
+[06-Mar-2024 18:00:41 Europe/Berlin] PHP Fatal error:  Uncaught (Status 403) API call failed since (daily) message quota exceeded
+
+  thrown in /home/tarde/Escritorio/ChartServidor/vendor/pusher/pusher-php-server/src/Pusher.php on line 792
+[06-Mar-2024 18:19:40 Europe/Berlin] PHP Fatal error:  Uncaught (Status 403) API call failed since (daily) message quota exceeded
+
+  thrown in /home/tarde/Escritorio/ChartServidor/vendor/pusher/pusher-php-server/src/Pusher.php on line 792
+[06-Mar-2024 18:25:20 Europe/Berlin] PHP Fatal error:  Uncaught (Status 400) App key 6f954cb4c88b9536d696 not in this cluster. Did you forget to specify the cluster?
+
+  thrown in /home/tarde/Escritorio/ChartServidor/vendor/pusher/pusher-php-server/src/Pusher.php on line 792
+[06-Mar-2024 18:26:07 Europe/Berlin] PHP Fatal error:  Uncaught (Status 400) App key 8a8f75304a9f310b16c7 not in this cluster. Did you forget to specify the cluster?
+
+  thrown in /home/tarde/Escritorio/ChartServidor/vendor/pusher/pusher-php-server/src/Pusher.php on line 792
